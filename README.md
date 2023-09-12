@@ -21,4 +21,10 @@ Alterando o arquivo de forma local.
 - [x] Palavras reservadas - 1
 - [x] Palavras reservadas - 2
 - [x] Java Doc - 1
-- [] Terminal e Argumentos - 1
+- [x] Terminal e Argumentos - 1
+
+- [] Estruturas condicionais
+    * [x] Estruturas condicionais Simples
+    * [x] Condicional composta
+    * [x] Condicionais encadeadas
+    * [ ] Condição ternária
