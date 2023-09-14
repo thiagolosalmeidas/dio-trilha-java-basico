@@ -23,8 +23,20 @@ Alterando o arquivo de forma local.
 - [x] Java Doc - 1
 - [x] Terminal e Argumentos - 1
 
-- [] Estruturas condicionais
+- [x] Estruturas condicionais
     * [x] Estruturas condicionais Simples
     * [x] Condicional composta
     * [x] Condicionais encadeadas
-    * [ ] Condição ternária
+    * [x] Condição ternária
+    * [x] Switch Case
+    
+- [] Estruturas de Repetição em JAVA
+    * [x] For
+    * [] For em Arrays
+    * [] Break e Continue
+    * [] While
+    * [] do While
+
+    
+
+
