@@ -33,7 +33,7 @@ Alterando o arquivo de forma local.
 - [] Estruturas de Repetição em JAVA
     * [x] For
     * [x] For em Arrays
-    * [] Break e Continue
+    * [x] Break e Continue
     * [] While
     * [] do While
 
