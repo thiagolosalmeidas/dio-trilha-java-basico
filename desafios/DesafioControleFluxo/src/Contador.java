@@ -25,12 +25,12 @@ public class Contador {
 			throw new ParametrosInvalidosException("O segundo parâmetro deve ser maior que o primeiro");
 		}
 
-		int contagem = parametroDois - parametroUm;
-		int i;
+		int diferenca = parametroDois - parametroUm;
+		int contagem;
 		//realizar o for para imprimir os números com base na variável contagem
 		//for (int contar = 1; contar <= contagem; contar ++) {
-		for (i = 1; i <= contagem; i ++) {
-			System.out.println("Imprimindo o numero " + i);
+		for (contagem = 1; contagem <= diferenca; contagem ++) {
+			System.out.println("Imprimindo o numero " + contagem);
 		}
 }
 }
