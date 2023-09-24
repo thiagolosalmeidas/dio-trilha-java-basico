@@ -9,8 +9,8 @@ public class ExemploFor {
 		
 *///Estrutura 2
 //o que importa é somente o bloco condicional
-		double carneirinhos = 0.1;
-		for( ; carneirinhos <=10.0; ) {
+		int carneirinhos = 1;
+		for( ; carneirinhos <=10; ) {
      	System.out.println("Carneirinho(s)" + carneirinhos);
      	carneirinhos ++;
 	}

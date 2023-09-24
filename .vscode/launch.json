@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "dio-trilha-java-basico_da56f534"
+        },
+        {
+            "type": "java",
             "name": "ExemploFor",
             "request": "launch",
             "mainClass": "ExemploFor",

@@ -30,13 +30,14 @@ Alterando o arquivo de forma local.
     * [x] Condição ternária
     * [x] Switch Case
     
-- [] Estruturas de Repetição em JAVA
+- [x] Estruturas de Repetição em JAVA
     * [x] For
     * [x] For em Arrays
     * [x] Break e Continue
-    * [] While
-    * [] do While
-
+    * [x] While
+    * [x] do While
+- [] Hands-on
+    * [] 1 cenario processo seletivo
     
 
 
